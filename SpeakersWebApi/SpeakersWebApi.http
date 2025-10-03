@@ -1,0 +1,6 @@
+@SpeakersWebApi_HostAddress = http://localhost:5153
+
+GET {{SpeakersWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
